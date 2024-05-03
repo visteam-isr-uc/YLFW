@@ -3,6 +3,8 @@ Young Labeled Faces in the Wild (YLFW): A Dataset for Children Faces Recognition
 
 https://github.com/JessyFrish/YLFW_Links
 
+To get the password for the YLFW_Dev proceed the licence agreement.
+
 If you find the results of our work useful in your research, please consider to cite the paper:
 
 ```
